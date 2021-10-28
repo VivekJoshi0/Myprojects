@@ -1,1 +1,1 @@
-This repository contains the new projects I a  going to work on
+This repository contains data science projects
